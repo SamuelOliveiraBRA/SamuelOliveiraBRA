@@ -37,7 +37,7 @@ Acompanhe minha trajetória
 
 ```
 function caution() {
-  console.log("notice the blank line after this function?");
+  console.log("There may be blank lines after this function?")
 }
 ```
 
