@@ -1,9 +1,5 @@
 ## Olá, sou o Samuel Oliveira 😁
 
-## Minha jornada começa aqui 👇✒
-
-> **Note:** O **meu perfil** ainda está em construção.
-
 <details><summary>Curioso?</summary>
 <p>
 
@@ -40,8 +36,8 @@ Acompanhe minha trajetória
 |TRABALHAR |`"True?"`           | True             |  True           |
 
 ```
-function test() {
-  console.log("notice the blank line before this function?");
+function caution() {
+  console.log("notice the blank line after this function?");
 }
 ```
 
