@@ -24,8 +24,10 @@ Acompanhe minha trajetória
 - [x] Aprender PHP
 - [x] Aprender comandos MySQL
 - [x] Aprender hosting
-- [ ] Aprendendo **Firebase** ✒
-- [ ] Aprendendo **React Native** ✒
+- [x] Aprender Cloudflare
+- [X] Aprendendo | Básico **Firebase** ✒
+- [X] Aprendendo | Básico **React Native** ✒
+- [X] Aprendendo **Python** ✒
 ---
 
 > Aprender a **aprender** e depois *aplicar*.
