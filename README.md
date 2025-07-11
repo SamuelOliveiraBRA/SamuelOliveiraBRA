@@ -28,9 +28,9 @@ Acompanhe minha trajetória
 - [x] Aprender Cloudflare
 - [x] Aprender Google Firebase
 - [x] Aprender Google Suite
-- [] Aprendendo | Básico **Firebase** ✒
-- [] Aprendendo | Básico **React Native** ✒
-- [] Aprendendo **Python** ✒
+- [ ] Aprendendo | Básico **Firebase** ✒
+- [ ] Aprendendo | Básico **React Native** ✒
+- [ ] Aprendendo | Básico **Python** ✒
 ---
 
 > Aprender a **aprender** e depois *aplicar*.
