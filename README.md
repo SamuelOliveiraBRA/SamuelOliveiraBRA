@@ -20,14 +20,17 @@ Acompanhe minha trajetória
 - [x] Aprender HTML
 - [x] Aprender CSS
 - [x] Aprender ASP
+- [x] Aprender MySQL Admin
 - [x] Aprender VBA
 - [x] Aprender PHP
 - [x] Aprender comandos MySQL
 - [x] Aprender hosting
 - [x] Aprender Cloudflare
-- [X] Aprendendo | Básico **Firebase** ✒
-- [X] Aprendendo | Básico **React Native** ✒
-- [X] Aprendendo **Python** ✒
+- [x] Aprender Google Firebase
+- [x] Aprender Google Suite
+- [] Aprendendo | Básico **Firebase** ✒
+- [] Aprendendo | Básico **React Native** ✒
+- [] Aprendendo **Python** ✒
 ---
 
 > Aprender a **aprender** e depois *aplicar*.
