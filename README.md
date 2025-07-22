@@ -1,4 +1,4 @@
-## Olá, sou o Samuel Oliveira 😁
+## Olá, sou o Samuel Oliveira 😁 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/samuel-oliveira-santos)
 
 <p>Poderia estar roubando, poderia estar matando, mas eu estou aqui programando...</p>
 <a href="https://coff.ee/samueloliveirabra" target="_blank">
@@ -8,7 +8,6 @@
 <p>&nbsp;</p>
 
 <details><summary>Curioso?</summary>
-
 
 #### The quick brown fox jumps over the lazy dog!
 
@@ -23,6 +22,7 @@ Acompanhe minha trajetória
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Office Script](https://img.shields.io/badge/Office%20Script-0078D7?style=flat&logo=microsoftoffice&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=googleapps&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-00A300?style=flat&logo=MicrosoftExcel&logoColor=white)
@@ -31,6 +31,8 @@ Acompanhe minha trajetória
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Visitantes](https://komarev.com/ghpvc/?username=SamuelOliveiraBRA&label=Visitantes&color=yellow&style=flat)
+
 ---
 ### Mundo da Informática
 ---
