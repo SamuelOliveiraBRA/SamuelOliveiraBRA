@@ -1,7 +1,14 @@
 ## Olá, sou o Samuel Oliveira 😁
 
+<p>Poderia estar roubando, poderia estar matando, mas eu estou aqui programando...</p>
+<a href="https://coff.ee/samueloliveirabra" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" width="162">
+</a>
+<br>
+<p>&nbsp;</p>
+
 <details><summary>Curioso?</summary>
-<p>
+
 
 #### The quick brown fox jumps over the lazy dog!
 
