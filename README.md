@@ -1,4 +1,4 @@
-## Olá, sou o Samuel Oliveira 😁 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/samuel-oliveira-santos)
+## Olá, sou o Samuel Oliveira 😁 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/samuel-oliveira-santos)
 
 <p>Poderia estar roubando, poderia estar matando, mas eu estou aqui programando...</p>
 <a href="https://coff.ee/samueloliveirabra" target="_blank">
